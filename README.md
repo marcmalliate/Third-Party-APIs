@@ -7,7 +7,7 @@
 The assignment was to  a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. The app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery. It also uses the Moment.js library to work the date and time.
 
 ### The app has the following features:
-1. When you open the WOrk Day Schedule, the current day is displayed at the top of the calendar.
+1. When you open the Work Day Schedule, the current day is displayed at the top of the calendar.
 2. When you scroll down you are presented with timeblocks for standard business hours.
 3. Each timeblock is color coded to indicate whether it is in the past, present, or future.
 4. When you click into a timeblock you can enter an event.
@@ -38,10 +38,10 @@ https://github.com/marcmalliate/Third-Party-APIs
 
 Here are two screenshots of the app
 
-![This is the Work Day Scheduler](assets/images/1.png)
+![This is the Work Day Scheduler](assets/images/2.png)
 
 
-![This is the Work Day Scheduler part 2](assets/images/2.png)
+![This is the Work Day Scheduler part 2](assets/images/1.png)
 
 
 
