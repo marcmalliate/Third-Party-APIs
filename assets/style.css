@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    background-image:url("./images/background_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+  
+h1 {
+    margin-bottom: 4rem;
+
+}
+
+h2 {
+margin-bottom: 3rem;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 6rem;
+font-weight: 400;
+color: wheat;
+}
+
+span {
+    font-size: 15px;
+    color: wheat;
+  }
+
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+
+  #currentDay {
+    font-size: 4rem;
+    font-weight: normal;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: wheat;
+  }
+  
+  .jumbotron {
+      font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: cadetblue;
+    color: wheat;
+    border-radius: 0;
+    border-bottom: 10px solid wheat;
+  }
+  
+
+  .fas {
+    color : wheat;
+  }
+  
+  .lead {
+   font-size: 3rem;
+  }
+  
+  .container {
+    margin-bottom: 10rem;
+  }
+  
+  .rowHour {
+    text-align: center;
+    border: 0.1rem solid wheat;
+    border-bottom-left-radius: 3.5rem;
+    padding: 1rem 1rem 1rem 1rem;
+    background-color: cadetblue;
+    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: wheat;
+    }
+
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    display: flex;
+    height: 80px;
+    border-top: 1px solid wheat;
+  }
+  
+  .hour {
+    background-color: wheat;
+    color: wheat;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: wheat;
+  }
+  
+  .present {
+    background-color: lightpink;
+    color: wheat;
+  }
+  
+  .future {
+    background-color: lightsteelblue;
+    color: wheat;
+  }
+  
+  .saveBtn {
+    border-left: 5px solid wheat;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: cadetblue;
+    color: wheat;
+    overflow: hidden;
+    text-align: center;
+    
+  }
+  
+  .far {
+    color : wheat;
+  }
+  
+  textarea:hover {
+    filter:brightness(110%);
+  }
+
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
